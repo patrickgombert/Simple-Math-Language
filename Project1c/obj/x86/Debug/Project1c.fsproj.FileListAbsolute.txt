@@ -1,0 +1,6 @@
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\bin\Debug\Project1c.XML
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\bin\Debug\Project1c.exe
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\bin\Debug\Project1c.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\obj\x86\Debug\Project1c.exe
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Project1c\Project1c\obj\x86\Debug\Project1c.pdb
